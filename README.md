@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FireFistisDead
+- 👋 Hi, I’m @Yash_khare
 - 👀 I’m interested in competitive coding
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
