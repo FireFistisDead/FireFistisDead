@@ -34,3 +34,6 @@
 
 🎯 Goal:
      Become a Tech Generalist: AI, Web, Embedded & Infra.
+
+```
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,mongodb,express,firebase" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,linux,arduino" /> </p>
