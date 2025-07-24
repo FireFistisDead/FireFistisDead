@@ -17,3 +17,16 @@
 
 ### ⚡ Who Am I?
 
+```text
+🔭 Currently working on:
+     - Daily LeetCode grind 🧩
+     - Full-stack projects using MERN & Firebase 🔧
+     - Computer Vision + ROS-based drone navigation 📸🚁
+
+🧠 Learning:
+     - Advanced AI/ML algorithms
+     - System Design + DevOps basics
+     - Real-time communication using WebSockets
+
+🎯 Goal:
+     Become a Tech Generalist: AI, Web, Embedded & Infra.
