@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hi, I'm Yash aka FireFistisDead</h1>
+<h1 align="center">🔥 Hi, I'm Yash</h1>
 <h3 align="center">💻 AI/ML Enthusiast | 🧠 DSA Lover | 🚀 Always Building</h3>
 
 <p align="center">
