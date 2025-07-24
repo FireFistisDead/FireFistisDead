@@ -1,4 +1,4 @@
-# 🚀 Om Choksi
+# Yash Khare
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omchoksi108?logo=twitter&style=for-the-badge)](https://twitter.com/omchoksi108)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omchoksi/)
