@@ -11,6 +11,7 @@
   <a href="https://leetcode.com/u/Khare_Yash/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://yashkhare-portfolio.netlify.app/" rel="nofollow">
 </p>
 
 ---
