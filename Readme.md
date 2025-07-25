@@ -37,7 +37,6 @@
 
 ```
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,mongodb,express,firebase" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,linux,arduino" /> </p>
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
