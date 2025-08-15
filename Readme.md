@@ -88,3 +88,8 @@
 </picture>
 
 ###
+
+<div align="center">
+  
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
+</div>
