@@ -22,17 +22,9 @@
 ### ⚡ Who Am I?
 
 ```text
-🔭 Currently working on:
-     - Daily LeetCode grind 🧩
-     - Full-stack projects using MERN & Firebase 🔧
-     - Computer Vision + ROS-based drone navigation 📸🚁
+Hii my name is Yash and i am an AI & ML Enthusiast and i am eagerly looking to contribute my skills in innovations and new projects and i am open to ideas and new tech and i have an unusual hunger for new tech and i am hungry right now
 
-🧠 Learning:
-     - Advanced AI/ML algorithms
-     - System Design + DevOps basics
-     - Real-time communication using WebSockets
-
-🎯 Goal:
+  Goal:
      Become a Tech Generalist: AI, Web, Embedded & Infra.
 
 ```
