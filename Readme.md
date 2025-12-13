@@ -22,7 +22,9 @@
 ### ⚡ Who Am I?
 
 ```text
-Hii my name is Yash and i am an AI & ML Enthusiast and i am eagerly looking to contribute my skills in innovations and new projects and i am open to ideas and new tech and i have an unusual hunger for new tech and i am hungry right now
+Hii my name is Yash and i am an AI & ML Enthusiast and i am eagerly looking to contribute my skils in
+innovations and new projects and i am open to ideas and new tech and
+i have an unusual hunger for new tech and i am hungry right now
 
   Goal:
      Become a Tech Generalist: AI, Web, Embedded & Infra.
